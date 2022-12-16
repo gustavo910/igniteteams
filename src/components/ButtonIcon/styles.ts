@@ -13,7 +13,7 @@ width: 56px;
 height: 56px;
 justify-content: center;
 align-items: center;
-margin-bottom: 12px;
+margin-bottom: 2px;
 
 `;
 
